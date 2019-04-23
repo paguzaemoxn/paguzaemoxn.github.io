@@ -1,3 +1,12 @@
+h1,h2{
+text-align:center;
+}
+
+span{
+color:#FF1493;
+font-family:"Meiryo";
+}
+
 table{
 width:640px;
 margin:auto;

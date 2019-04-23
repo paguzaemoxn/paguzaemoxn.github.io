@@ -3,9 +3,17 @@ text-align:center;
 margin:0 auto;
 }
 
+h2{
+padding:10px;
+}
+
 span{
 color:#FF1493;
 font-family:"Meiryo";
+}
+
+.pad{
+padding:10px;
 }
 
 table{

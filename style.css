@@ -1,13 +1,22 @@
-
 table{
-width:600px;
+width:640px;
 margin:auto;
 }
 
 @media only screen and (max-width: 640px) {
-table,tr,td{
+
+table{
 width:100%;
 }
+
+th,td{
+display:block;
+}
+
+td{
+width:auto;
+}
+
 }
 
 td.none{
@@ -20,12 +29,17 @@ border: 1px solid #bbb;
 padding:5px;
 }
 
-td.iro{
+th{
 background:#0000ff;
 color:white;
-text-align:center;
 border: 1px solid #bbb;
 padding:5px;
+}
+
+@media only screen and (min-width: 641px) {
+th{
+width:160px;
+}
 }
 
 img{

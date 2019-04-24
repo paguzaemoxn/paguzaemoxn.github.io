@@ -54,16 +54,19 @@ margin:20px auto; /* �㉺20px�]���Ƃ��āA�Z���^����
 }
 
 @media only screen and (max-width: 640px) { /* �X�}�z�p */
-
+/*
 body{
 background: transparent url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
 fixed;
-/*
+
 left; 
 top; 
 */
+body{
+    /* �\���摜�̍��� �� �\���摜�̕� �~ 100 */
+    background: url('https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg') fixed;
+    background-size:cover;
 
-background-size:cover;
 /*
 background-size:100% 100%;
 */

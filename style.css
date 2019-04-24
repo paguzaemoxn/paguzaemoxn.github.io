@@ -1,8 +1,36 @@
+
+body{
+background: transparent url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
+fixed;
+left; 
+top; 
+background-size:100% 100%;
+margin:0;
+
+}
+
+header{
+background:#fff;
+}
+
+@media only screen and (min-width: 641px) {
+div.wrap{
+    display:block;
+    width:60%;
+    margin-left: 20%;
+    overflow: hidden;
+}
+}
+
+
+
+
 h1,h2{
 text-align:center;
 margin:0 auto;
 padding:10px;
 }
+h1{font-weight:normal;}
 
 span{
 color:#FF1493;
@@ -13,10 +41,26 @@ font-family:"Meiryo";
 padding:10px;
 }
 
+p.indent-1 {
+padding-left:1em;
+text-indent:-1em;
+}
+
 table{
 width:640px;
-margin:auto;
+margin:20px auto;
 }
+
+th,td{
+background:#fff;
+opacity:0.8;
+filter: alpha(opacity=80);        /* ie lt 8 */
+-ms-filter: "alpha(opacity=80)";  /* ie 8 */
+-moz-opacity:0.8;                 /* FF lt 1.5, Netscape */
+-khtml-opacity: 0.8;              /* Safari 1.x */
+zoom:1;
+}
+
 
 @media only screen and (max-width: 640px) {
 

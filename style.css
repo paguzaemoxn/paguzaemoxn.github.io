@@ -61,15 +61,16 @@ body{
     background: url('https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg') fixed;
     background-size:cover;
 */
-/*
+
 background:url(https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg) fixed;
+background-position: 50% 50%;
 background-size:contain 100%;
-*/
 
+/*
 background-image: url(https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg);
-background-position: 50% 50%; /* �摜�������N�_�ɕ\�� */
+background-position: 50% 50%;
 background-size: cover;
-
+*/
 
 /*
 background-size:100% 100%;

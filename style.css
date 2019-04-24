@@ -50,7 +50,7 @@ text-indent:-1em;
 
 table{ /* �e�[�u���̕� */
 width:640px;
-margin:20px auto; /* �㉺20px�]���Ƃ��āA�Z���^�����O */
+margin:50px auto; /* �㉺20px�]���Ƃ��āA�Z���^�����O */
 }
 
 @media only screen and (max-width: 640px) { /* �X�}�z�p */

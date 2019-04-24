@@ -65,7 +65,7 @@ top;
 body{
     /* �\���摜�̍��� �� �\���摜�̕� �~ 100 */
     background: url('https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg') fixed;
-    background-size:cover;
+    background-size:contain;
 
 /*
 background-size:100% 100%;

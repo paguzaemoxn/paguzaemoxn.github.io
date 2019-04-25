@@ -1,9 +1,10 @@
+@media only screen and (min-width: 641px) {
 body{
 background: transparent url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
 fixed;
 background-size:100% 100%;
 margin:0;
-
+}
 }
 
 header{

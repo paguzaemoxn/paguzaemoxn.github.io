@@ -1,6 +1,6 @@
 @media only screen and (min-width: 641px) {
 .bg{
-background: transparent url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
+background: url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
 fixed;
 background-size:100% 100%;
 margin:0;
@@ -51,8 +51,7 @@ margin:50px auto; /* �㉺20px�]���Ƃ��āA�Z���^����
 @media only screen and (max-width: 640px) { /* �X�}�z�p */
 
 .bg{
-background-image: url("image/hanagawasp.jpg")
-background-attachment: fixed;
+background: url("image/hanagawasp.jpg") fixed;
 background-size:100% 100%;
 margin:0;
 }

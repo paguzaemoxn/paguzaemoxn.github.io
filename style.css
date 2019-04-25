@@ -1,10 +1,12 @@
 @media only screen and (min-width: 641px) {
-body{
+.bg{
 background: transparent url("https://blog-imgs-112.fc2.com/s/h/i/shimamaronn/Hanagawa1-2.jpg")
 fixed;
 background-size:100% 100%;
 margin:0;
 }
+body{ margin:0; }
+
 }
 
 header{
@@ -48,11 +50,12 @@ margin:50px auto; /* �㉺20px�]���Ƃ��āA�Z���^����
 
 @media only screen and (max-width: 640px) { /* �X�}�z�p */
 
-body{
+.bg{
 background: url("image/hanagawasp.jpg") fixed;
-background-size: 100% 100%;
+background-size:100% 100%;
 margin:0;
 }
+body{ margin:0; }
 
 table{
 width:100%;

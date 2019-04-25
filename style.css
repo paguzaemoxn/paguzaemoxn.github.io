@@ -50,7 +50,7 @@ margin:50px auto; /* �㉺20px�]���Ƃ��āA�Z���^����
 @media only screen and (max-width: 640px) { /* �X�}�z�p */
 
 .bg{
-background: url("image/hanagawasp.jpg") fixed;
+background: url("image/hanagawasp.jpg") left top fixed;
 background-size:100vw 100vh;
 }
 body{ margin:0; }

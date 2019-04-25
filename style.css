@@ -51,7 +51,7 @@ margin:50px auto; /* �㉺20px�]���Ƃ��āA�Z���^����
 
 .bg{
 background: url("image/hanagawasp.jpg") fixed;
-background-size:100% 100%;
+background-size:100vw 100vh;
 }
 body{ margin:0; }
 
